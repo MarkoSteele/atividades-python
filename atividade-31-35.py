@@ -2,24 +2,24 @@
 em KM. Calcule o preço da passagem, cobrando 0.5 reais por KM para viagens até
 200KM e cobre 0.45 reais para viagens mais longas"""
 
-""" distancia = int(input('Digite a distância da viagem: '))
+distancia = int(input('Digite a distância da viagem: '))
 if distancia <= 200:
     valor = distancia * 0.5
     print(f'O valor da viagem será de {valor}')
 else:
     valor = distancia * 0.45
-    print(f'O valor da viagem será de {valor}') """
+    print(f'O valor da viagem será de {valor}')
 
 
 
 
 """ Desafio 32 -  Faça um programa que leia um ano qualquer e mostre se ele é bissexto"""
 
-""" ano = int(input('Digite um ano: '))
+ano = int(input('Digite um ano: '))
 if ano % 4 == 0:
     print('O ano digitado é bissexto.')
 else:
-    print('O ano digitado não é bisexto.') """
+    print('O ano digitado não é bisexto.')
 
 
 """ Desafio 33 -  Faça um programa que leia 3 números e mostre qual é o maior e qual é o menor"""
