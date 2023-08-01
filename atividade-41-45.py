@@ -83,7 +83,6 @@ import random
 
 opcoes = ['1. Pedra', '2. Papel', '3. Tesoura']
 escolha_maquina = random.choice(opcoes)
-print(escolha_maquina)
 for opcao in opcoes:
     print(opcao)
 escolha = input('Digite o número da sua opção de escolha: ')
