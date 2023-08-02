@@ -1,1 +1,5 @@
-    print('Digite valores válidos.')
+ano2 = int(input('Digite o ano de nascimento da segunda pessoa: '))
+ano3 = int(input('Digite o ano de nascimento da terceira pessoa: '))
+ano4 = int(input('Digite o ano de nascimento da quarta pessoa: '))
+ano5 = int(input('Digite o ano de nascimento da quinta pessoa: '))
+ano6 = int(input('Digite o ano de nascimento da sexta pessoa: '))
